@@ -1,0 +1,4 @@
+java -cp bin;lib/* org.testng.TestNG testng.xml
+================================================
+Save this file in double cottetion with bat extention
+Example# "run.bat" This will make Windows Batch File
