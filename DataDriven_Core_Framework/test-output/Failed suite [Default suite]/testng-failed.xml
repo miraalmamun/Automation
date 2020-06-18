@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Default suite]]">
+  <test thread-count="5" name="Default test(failed)(failed)">
+    <classes>
+      <class name="com.qtpselenium.core.ddf.testcases.DummyTestA">
+        <methods>
+          <include name="testA1"/>
+          <include name="testA2"/>
+          <include name="testA3"/>
+        </methods>
+      </class> <!-- com.qtpselenium.core.ddf.testcases.DummyTestA -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->
