@@ -155,24 +155,7 @@
 			<version>${gson.version}</version>
 		</dependency>
 		<!-- =============================================End of Gson================================ -->
-		<!-- The Apache HttpClient library allows to handling HTTP requests. To 
-			use this library add a dependency to your Maven -->
-		<dependency>
-			<groupId>org.apache.httpcomponents</groupId>
-			<artifactId>httpclient</artifactId>
-			<version>${httpclient.version}</version>
-		</dependency>
-		<!-- ===============================End of HttpClient======================================= -->
-		<!--Guava is an open source, Java-based library and contains many core 
-			libraries of Google, which are being used in many of their projects. It facilitates 
-			best coding practices and helps reduce coding errors. -->
-		<dependency>
-			<groupId>com.google.guava</groupId>
-			<artifactId>guava</artifactId>
-			<version>${guava.version}</version>
-		</dependency>
-
-		<!-- ===============================================End of guava=============================== -->
+		
 		<!--cglib is a powerful, high performance and quality Code Generation Library, 
 			It is used to extend JAVA classes and implements interfaces at runtime. See 
 			samples and API documentation to learn more about features. This library 
